@@ -225,7 +225,7 @@ echo ' |_| \_\__,_|\__, | |_| \_|\__,_| |_|   \_/ \___| '
 echo '             |___/                                '
 
 # ------------vars-----------、
-gitRowUrl="https://raw.githubusercontent.com/RayWangQvQ/naiveproxy-docker/main"
+gitRowUrl="https://raw.githubusercontent.com/ouguajian/naiveproxy-docker/main"
 
 host=""
 
